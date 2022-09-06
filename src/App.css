@@ -1,0 +1,17 @@
+.App{
+  text-align: center;
+  
+}
+
+.card{
+  margin: 0 auto;
+  border-radius: 15px;
+  background: lavender;
+  width: 300px;
+  height:  fit-content;
+ 
+}
+
+.card button{
+  margin: 10px
+}
